@@ -1,0 +1,34 @@
+body {
+    height: 100%;
+    background-color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    /* The html and body elements cannot have any padding or margin. */
+    border-top: 3px solid #5c5c5c;
+  }
+
+
+.navbar {
+    background-color: rgba(201, 201, 201, 0.76);
+}
+
+.quem-somos{
+    background-color: rgb(122, 120, 120);
+}
+
+.parceiros{
+    background-color: aquamarine;
+}
+
+.servicos{
+    background-color: aqua;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-fluter{
+    background-color: rgb(54, 54, 54);
+    color: #ffff;
+}
